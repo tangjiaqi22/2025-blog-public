@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "tjqmath",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "唐嘉琪的个人博客，记录一些数学感悟与笔记。",
 		"username": "唐嘉琪"
 	},
 	"theme": {
@@ -33,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -45,21 +45,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/tangjiaqi22",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "wechat",
+			"value": "JQTMath",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"type": "qq",
+			"value": "2169191247",
 			"label": "",
 			"order": 1
 		}
