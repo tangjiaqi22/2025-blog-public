@@ -43,25 +43,25 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/tangjiaqi22",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
+			"id": "button-1782373075680",
 			"type": "wechat",
-			"value": "/images/social-buttons/accb2d8c88c34727.JPG",
-			"label": "稀土掘金",
-			"order": 2
+			"value": "JQTMath",
+			"label": "",
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "qq",
 			"value": "2169191247",
 			"label": "",
-			"order": 1
+			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/tangjiaqi22",
+			"label": "Github",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
